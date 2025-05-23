@@ -1,3 +1,11 @@
-📌 **LAB6a_Factorial/Cookie/prime_Servlet Program**
+📌 **LAB6_Factorial/Cookie/prime_Servlet Program**
 
-- [Lab1a_ListOperations Output](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab1a_ListOperations/1a.png)
+
+- [Factorial-Servlet](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab6_factorialprimeandsetcookie/6a.png))
+- [Cookie-Servlet](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab6_factorialprimeandsetcookie/6b.png)
+- [prime-Servlet](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab6_factorialprimeandsetcookie/6c.png)
+
+  
+  
+
+
