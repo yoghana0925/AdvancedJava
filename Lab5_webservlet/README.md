@@ -2,10 +2,12 @@
 
 📌 **5 Servlet programs**
 
-- [basic hello swing](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab4_webservelet/4a.png)
-- [CountryPressed](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab4_webservelet/4b.png)
-- [DigitalClock](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab4_webservelet/4c.png)
-
+- [Swings Countries](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab5_webservlet/5a.png)
+- [swings Colour Tabs](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab5_webservlet/5b.png)
+- [Country_Capital list](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab5_webservlet/5c.png)
+- [CMY_color tabs](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab5_webservlet/5d.png)
+  
+  
 
 
 
