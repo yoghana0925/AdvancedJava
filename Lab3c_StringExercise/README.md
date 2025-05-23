@@ -2,11 +2,11 @@
 
 📌 **String programs**
 
-- [NullorNot Output](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3bStringOperations/3bq1.png)
-- [countOccurances](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3bStringOperations/3bq2.png)
-- [Reverse](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3bStringOperations/3bq3.png)
-- [palindrome](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3bStringOperations/3bq4.png)
-- [removeWhitespace](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3bStringOperations/3bq5.png)
+- [capitalizeWords Output](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3c_StringExercise/3cq6.png)
+- [truncate](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3c_StringExercise/3cq7.png)
+- [isNumeric](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3c_StringExercise/3cq8.png)
+- [RandomString](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3c_StringExercise/3cq9.png)
+- [countWords](https://github.com/yoghana0925/AdvancedJava/blob/main/Lab3c_StringExercise/3cq10.png)
 
 
 
